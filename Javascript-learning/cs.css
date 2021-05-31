@@ -1,0 +1,15 @@
+html{
+    background-color: darkcyan;
+}
+div{
+    border: darkblue;
+    background-origin: padding-box;
+    text-align: center;
+    padding-left: 0pc;
+}
+h1{
+    color: rgb(22, 21, 21);
+    text-align: center;
+    padding-top: 20%;
+    height: 50%;
+}

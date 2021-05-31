@@ -1,0 +1,15 @@
+[
+    {
+        "name" :"uman",
+        "height" : 160,
+        "age" :19
+
+
+    },
+    {
+        "name" : "tabassum",
+        "height": 170,
+        "age" :20
+
+    }
+]
